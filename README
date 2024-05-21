@@ -1,0 +1,23 @@
+Just button clicker with pretty terminal, nothing special.
+
+To start, you need to install venv and activate it:
+
+Win:
+
+python -m venv myenv
+myenv\Scripts\activate
+
+Mac/Linux:
+
+python3 -m venv myenv
+source myenv/bin/activate
+
+Second step is install requirements.txt:
+
+Win:
+
+pip install -r requirements.txt
+
+Mac/Linux:
+
+pip3 install -r requirements.txt
